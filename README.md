@@ -1,3 +1,11 @@
+# Housing Helpers
+
+Housing Helpers App is a Full stack Project.
+
+In this project, latest technologies like React Router Dom V6 for Routing (Single Page Application), Bootstrap 5, CSS to designing and for back-end Firebase V9 which is latest one from google Firebase has been used.
+Hooks is also used in this project along with protected routes.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
