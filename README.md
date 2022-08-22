@@ -1,6 +1,6 @@
-# Housing Helpers
+# Housing Estate
 
-Housing Helpers App is a Full stack Project.
+Housing Estate App is a Full stack Project.
 
 In this project, latest technologies like React Router Dom V6 for Routing (Single Page Application), Bootstrap 5, CSS to designing and for back-end Firebase V9 which is latest one from google Firebase has been used.
 Hooks is also used in this project along with protected routes.
